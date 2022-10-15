@@ -30,4 +30,4 @@ Fala Dev,(●'◡'●) Bem vindo ao meu perfil!
     <a href = "mailto:lucasherbert.sousa@hotmail.com"><img src=https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white></a>
   </div>
   
-  ![Snake animation](https://github.com/LucasHebert/LucasHebert/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/LucasHebert/LucasHebert/blob/output/github-contribution-grid-snake.svg)
