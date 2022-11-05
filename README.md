@@ -3,7 +3,7 @@ Fala Dev,(●'◡'●) Bem vindo ao meu perfil!
 
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-😍 Apaixona em Programação
+😍 Apaixonado em Programação
 
 📖 Aprendendo HTML, CSS, JavaScript, MySQL, C#, Python
 
